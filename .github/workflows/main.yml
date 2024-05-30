@@ -1,4 +1,4 @@
-name: Pyramid Script
+name: Run Pyramid Script
 
 on: [push]
 
@@ -21,4 +21,4 @@ jobs:
 
     - name: Run pyramid script
       run: |
-        python Triangle.py
+        python Triangle.py 20
