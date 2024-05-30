@@ -21,4 +21,4 @@ jobs:
 
     - name: Run pyramid script
       run: |
-        python pyramid.py
+        python Triangle.py
